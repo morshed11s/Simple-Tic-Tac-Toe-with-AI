@@ -40,7 +40,7 @@ A simple yet polished Tic-Tac-Toe game built with Python and Tkinter, where the 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/tic-tac-toe-ai.git
+git clone https://github.com/morshed11s/Simple-Tic-Tac-Toe-with-AI.git
 ```
 
 2. Navigate to the project folder:
